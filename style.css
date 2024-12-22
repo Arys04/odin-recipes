@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(214, 214, 214);
+    font-family: Garamond;
+}
+
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+h2, h3 {
+    font-family: Garamond;
+   
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+ul, ol {
+    list-style: square;
+}
+
+
+a {
+    text-decoration: none;
+    
+}
+
+
+img {
+    border: 2px black solid;
+}
